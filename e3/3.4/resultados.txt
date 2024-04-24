@@ -1,0 +1,4 @@
+
+BubbleSort: 7259; Numero de comparacoes: 1249812265; Numero de atribuicoes: 1861566168
+SelectionSort: 3976 ; Numero de comparacoes: 1249975000; Numero de atribuicoes: 406334
+InsertSort: 2792; Numero de comparacoes: 618916028; Numero de atribuicoes: 617161262
